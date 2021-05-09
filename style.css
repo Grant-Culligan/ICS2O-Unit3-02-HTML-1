@@ -1,0 +1,20 @@
+.stick {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
+#duck {
+  width: 30%;
+  height: 30%;
+}
+
+#frog {
+  width: 30%;
+  height: 30%;
+}
+
+#thinmage {
+  width: 500px;
+  height: 2000px;
+}
